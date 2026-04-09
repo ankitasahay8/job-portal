@@ -107,18 +107,6 @@ MONGO_URI=your_mongodb_url
 JWT_SECRET=your_secret_key
 PORT=5000
 ```
-
----
-
-## 📸 Screenshots
-
-* Home Page
-* Job Listings
-* Login / Signup
-* Recruiter Dashboard
-
-*(Add screenshots here for better impression)*
-
 ---
 
 ## 📌 Future Improvements
@@ -153,7 +141,3 @@ Contributions are welcome! Feel free to fork and improve the project.
 GitHub: https://github.com/ankitasahay8
 
 ---
-
-## ⭐ Show Your Support
-
-If you like this project, give it a ⭐ on GitHub!
